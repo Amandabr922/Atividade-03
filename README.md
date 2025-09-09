@@ -8,8 +8,8 @@ Esta atividade foi desenvolvida como parte das práticas da disciplina de **Dese
 
 Você pode visualizar o projeto funcionando através do link abaixo:
 
- [Clique aqui para acessar o site](https://amandabr922.github.io/Atividade-03/
-)
+ [Clique aqui para acessar o site](https://amandabr922.github.io/Atividade-03/)
+
 
 
 ## 🛠 Tecnologia Utilizada
